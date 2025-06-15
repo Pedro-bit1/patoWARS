@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+        body {
+            background-image: url("i.Mar background.jpg");
+            background-attachment: fixed;
+            font-family: "jersey 10";
+        }
+
+        #menu {
+            text-align: center;
+            font-size: 100px;
+            width: 100%;
+            height: 100%;
+        }
+
+        #fundo{
+            width: 210px;
+            height: 110px;
+            padding: 10px;
+            background-image: url("i.btn.png");
+            background-repeat: no-repeat;
+            background-size: 100%;
+            justify-self: center ;
+        }
+
+        a {
+            color: crimson;
+            text-decoration: none;
+        }

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+body {
+  margin: 100px;
+  background-image: url("i.Mar background.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Jersey 10";
+  background-image: "pato.png";
+}
+
+canvas {
+
+  border: 2px solid blue;
+  background-image: url("i.mar\ da\ luta.jpg");
+}
+
+#pontuacao {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+}
+
+#instrucoes {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 10px;
+
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+}
